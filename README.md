@@ -11,5 +11,5 @@ docker build -t myimage:1.0 . </li>
 
 <h2>Points of interest</h2>
 <ul>
-<li>the image is build based on latest nginx</li>
+<li>the new image is build based on latest nginx (check Dockerfile) and html files</li>
 </ul>
